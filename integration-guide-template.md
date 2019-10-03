@@ -56,3 +56,6 @@ Use the current Datadog guide as an example:***
 
 ***Outline the configuration steps in your tool starting here.***
 
+# How to Uninstall
+
+***Add instructions here on how to uninstall your app (e.g. going to the profile page to revoke access vs. deleting the integration key or extension).***
