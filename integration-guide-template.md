@@ -1,6 +1,6 @@
 # Instructions
 
-* Please make a copy of this template. **Once you have your own draft, you can delete this section**.
+* Please make a copy of this template, either using the markdown (click **Raw**) or by copying this text and formatting yourself. **Once you have your own draft, you can delete this section**.
 * The following template includes information required in all PagerDuty integration guides.
 * Instructions in ***bold italics*** are intended to provide guidance or examples, and should be deleted once you’ve added your content.
 * If your integration does not follow the same flow as what we’ve provided below (e.g. steps begin in your tool’s UI as opposed to the PagerDuty UI, etc.), feel free to make the changes you need to reflect the flow of the integration.
