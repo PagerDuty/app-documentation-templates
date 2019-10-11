@@ -42,7 +42,6 @@ The active voice ensures that your writing is clear, concise and engaging. The [
 * At PagerDuty, we use the Preview tool that comes standard on macOS. Type **⌘ + ⇧ + A** or click **View** > **Show Markup Toolbar** to annotate images with arrows, rectangles and text.
 * Only include screenshots that are **absolutely necessary**, so that you have less images to continually update when UI changes, etc. We usually only include screenshots when objects in the UI are small or harder to find. 
 * Ensure that you've obfuscated all sensitive information in your screenshots (e.g., personal account information, integration keys, etc.,) by covering with fake data or an image blur tool. 
-* 
 
 ^^^ Note: Once you have completed your guide, please delete this section. ^^^
 ----
