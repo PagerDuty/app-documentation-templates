@@ -2,7 +2,7 @@
 
 * Please copy this template (copy either the markdown by clicking **Raw** or the copy directly from this preview) and use it to create your guide in your preferred medium. 
 * This template includes information required in all PagerDuty integration guides.
-* Template instructions in ***bold italics*** are intended to provide guidance or examples, and should be deleted once you’ve added your content.
+* Template instructions in ***bold italics*** are intended to provide guidance or examples, and should be deleted and/or replaced once you’ve added your content.
 * If your integration does not follow the same flow as what we’ve provided below (e.g. steps begin in your tool’s UI as opposed to the PagerDuty UI, etc.), feel free to make the changes you need to reflect the flow of the integration.
 * Please read through our Writing and Style Guidelines below before starting your draft.
 
@@ -66,6 +66,10 @@ Use the current Datadog guide as an example:***
 ***If there are requirements that user will need prior to completing the integration, list them here.
 Use the current Datadog guide as an example:***
 * ***PagerDuty integrations require an Admin base role for account authorization. If you do not have this role, please reach out to an Admin or Account Owner within your organization to configure the integration.***
+
+# Support
+
+If you need help with this integration, please contact ***[YOUR-ORG'S-SUPPORT-CONTACT-INFO-HERE]*** ***Note: We need some form of contact from your organization, please do not put PagerDuty's support info here***. 
 
 # Integration Walkthrough
 ## In PagerDuty
