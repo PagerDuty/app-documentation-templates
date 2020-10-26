@@ -81,13 +81,13 @@ If you need help with this integration, please contact ***[YOUR-ORG'S-SUPPORT-CO
 
 ### ***Integrating With Global Event Routing***
 ***Integrating with Global Event Routing enables you to route events to specific services based on the payload of the event from your tool. If you would like to learn more, please visit our article on Global Event Routing.***
-***1. From the Configuration menu, select Event Rules.***
+***1. From the Services menu, select Event Rules.***
 ***2. On the Event Rules screen, click on the arrow next to Incoming Event Source to display the Integration key information. Copy your Integration Key. This is the same integration key you will use for any other tool you want to integrate with using event rules. When you have finished setting up the integration in your tool, you will return to this interface to specify how to route events from your tool to services in PagerDuty.***
 
 ![](https://pdpartner.s3.amazonaws.com/ig-template-incoming-event-source-key.png)
 
 ### Integrating With a PagerDuty Service
-1. From the **Configuration** menu, select **Services**.
+1. From the **Services** menu, select **Service Directory**.
 2. There are two ways to add an integration to a service:
    * **If you are adding your integration to an existing service**: Click the **name** of the service you want to add the integration to. Then, select the **Integrations** tab and click the **New Integration** button.
    * **If you are creating a new service for your integration**: Please read our documentation in section [Configuring Services and Integrations](https://support.pagerduty.com/docs/services-and-integrations#section-configuring-services-and-integrations) and follow the steps outlined in the [Create a New Service](https://support.pagerduty.com/docs/services-and-integrations#section-create-a-new-service) section, selecting ***[PARTNER-NAME]*** as the **Integration Type** in step 4. Continue with the In  ***[PARTNER-NAME]***  section (below) once you have finished these steps.
