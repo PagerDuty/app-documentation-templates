@@ -84,7 +84,8 @@ If you need help with this integration, please contact ***[YOUR-ORG'S-SUPPORT-CO
 ***1. From the Configuration menu, select Event Rules.***
 ***2. On the Event Rules screen, click on the arrow next to Incoming Event Source to display the Integration key information. Copy your Integration Key. This is the same integration key you will use for any other tool you want to integrate with using event rules. When you have finished setting up the integration in your tool, you will return to this interface to specify how to route events from your tool to services in PagerDuty.***
 
-![](https://pdpartner.s3.amazonaws.com/ig-template-incoming-event-source-key.png)
+![]![event-integration-key](https://user-images.githubusercontent.com/35554706/125860747-14eb1afd-2e26-4592-8d48-0626951d66db.png)
+
 
 ### Integrating With a PagerDuty Service
 1. From the **Configuration** menu, select **Services**.
@@ -94,7 +95,8 @@ If you need help with this integration, please contact ***[YOUR-ORG'S-SUPPORT-CO
 3. Enter an **Integration Name** in the format `monitoring-tool-service-name` (e.g.  ***[PARTNER-NAME]***-Shopping-Cart) and select  ***[PARTNER-NAME]***  from the Integration Type menu.
 4. Click the **Add Integration** button to save your new integration. You will be redirected to the Integrations tab for your service.
 5. An **Integration Key** will be generated on this screen. Keep this key saved in a safe place, as it will be used when you configure the integration with  ***[PARTNER-NAME]***  in the next section.
-![](https://pdpartner.s3.amazonaws.com/ig-template-copy-integration-key.png)
+![]![integration-v2-key](https://user-images.githubusercontent.com/35554706/125860715-4c51fdac-4029-4e10-a906-7621483039a4.png)
+
 
 ## In ***[PARTNER-NAME]***
 
